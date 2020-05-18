@@ -1,1 +1,8 @@
 My first changes to check the jenkin push event s triggered.
+
+My second changes to check after jenkin push events triggered
+and post build CLI added for octo to be triggered from 
+1. Creating Zip
+2. Push packages
+3. Create release
+4. Deploy Release.
